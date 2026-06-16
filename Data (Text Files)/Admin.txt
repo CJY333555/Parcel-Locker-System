@@ -1,0 +1,2 @@
+A001|Lee Ming|leeming@gmail.com|01123456789|0001
+A002|Kim Ming|0002|KimMing@gmail.com|0115328481|0002

@@ -1,0 +1,12 @@
+H001|L001|C001|Small|Booked
+H001|L001|C002|Medium|In Use
+H001|L001|C003|Large|In Use
+H002|L002|C001|Small|Available
+H002|L002|C002|Medium|Available
+H002|L002|C003|Large|Available
+H003|L003|C001|Small|Available
+H003|L003|C002|Medium|Available
+H003|L003|C003|Large|Available
+H003|L004|C001|Small|Available
+H003|L004|C002|Medium|Available
+H003|L004|C003|Large|Available

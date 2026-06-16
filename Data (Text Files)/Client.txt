@@ -1,0 +1,5 @@
+U001|Charles Tiong Jung Zhi|charlestiong@gmail.com|01122346164|1234
+U002|Chee Ee Feng|EeFeng@gmail.com|01128738714|5678
+U003|Cheng Jun Yan|junyang@gmail.com|01128337474|9101
+U004|Justin Lee Ang Yu|justinLee@gmail.com|0138176283|1213
+U005|Seet Xin Yu|xinyu@gmail.com|0168299922|1415
