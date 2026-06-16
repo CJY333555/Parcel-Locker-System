@@ -14,3 +14,7 @@ Java
 
 ## Recommend Tools
 Eclipse, VS Code
+
+## Files Information
+1. Source Code folder includes Java files
+2. Data folder includes text files
