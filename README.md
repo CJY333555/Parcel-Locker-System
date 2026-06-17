@@ -1,6 +1,6 @@
 # Parcel-Locker-System
 ## Introduction
-Parcel Locker System is designed to allow users make reservation for putting the parcels on the specific lockers.
+Parcel Locker System is designed to allow users make reservation for putting or picking up the parcels on the specific lockers.
 
 ## Features
 * System have verification step to allow users to choose with loging as Administrator or Client identity.  
